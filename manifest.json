@@ -11,6 +11,8 @@
       "title": "Weekend Event",
       "startsAt": "2026-03-06T00:00:00Z",
       "endsAt": "2026-03-08T23:59:59Z"
+      "imageUrl": "https://raw.githubusercontent.com/rybetasz/nfspgp-mod/main/eventimage.png"
     }
   ]
 }
+
