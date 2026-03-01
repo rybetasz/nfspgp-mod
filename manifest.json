@@ -8,11 +8,11 @@
   ],
   "events": [
     {
-      "title": "Weekend Event",
+      "title": "Mercedes Benz Sauber C9 Özel Etkinliği",
+      "subtitle": "Dayanıklılık yarışlarının unutulmaz efsanesi pistlere geri dönüyor!\nLe Mans ruhunu taşıyan Mercedes-Benz Sauber C9, gücü, aerodinamik yapısı ve saf yarış karakteriyle yeniden sahnede.\n\nTurbo beslemeli V8 motoru, uzun düzlüklerde rakiplerine nefes aldırmazken; dengeli şasisi ve yere basma kuvveti sayesinde yüksek hızlarda bile kusursuz kontrol sunar. Hızlı, atik ve agresif sürüş karakteriyle gerçek bir pist canavarı.\n\nBu etkinlikte:\n\nSadece bu etkinliğe özel 10 farklı yarış seni bekliyor.\n\nHer yarış, C9’un gücünü ve sürüş becerini test edecek özel görevler içeriyor.\n\n10 özel yarışı başarıyla tamamlayan oyuncular, Mercedes-Benz Sauber C9’u garajlarına tamamen ücretsiz olarak ekleme hakkı kazanacak.\n\nBu fırsat bir daha gelmeyebilir.\nEfsaneyi hak et, efsaneyi sür.",
       "startsAt": "2026-03-06T00:00:00Z",
-      "endsAt": "2026-03-08T23:59:59Z"
+      "endsAt": "2026-03-08T23:59:59Z",
       "imageUrl": "https://raw.githubusercontent.com/rybetasz/nfspgp-mod/main/eventimage.png"
     }
   ]
 }
-
