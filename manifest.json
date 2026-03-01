@@ -1,17 +1,16 @@
 {
   "latestVersion": "1.0.3",
-  "updateUrl": "https://nfspgp.pages.dev/releases/1.0.3/update.zip",
+  "updateUrl": "https://github.com/rybetasz/nfspgp-mod/releases/download/1.0.3/update.zip",
   "news": [
-    "v1.0.3 - Performance improvements",
-    "Fixed texture streaming issues",
-    "Added new vinyl pack"
+    "Patch 1.0.3",
+    "- Fixed stuff",
+    "- Added stuff"
   ],
   "events": [
     {
       "title": "Weekend Event",
-      "subtitle": "Double cash",
-      "startsAt": "2026-03-06T18:00:00Z",
-      "endsAt": "2026-03-08T18:00:00Z"
+      "startsAt": "2026-03-06T00:00:00Z",
+      "endsAt": "2026-03-08T23:59:59Z"
     }
   ]
 }
