@@ -1,0 +1,17 @@
+{
+  "latestVersion": "1.0.3",
+  "updateUrl": "https://nfspgp.pages.dev/releases/1.0.3/update.zip",
+  "news": [
+    "v1.0.3 - Performance improvements",
+    "Fixed texture streaming issues",
+    "Added new vinyl pack"
+  ],
+  "events": [
+    {
+      "title": "Weekend Event",
+      "subtitle": "Double cash",
+      "startsAt": "2026-03-06T18:00:00Z",
+      "endsAt": "2026-03-08T18:00:00Z"
+    }
+  ]
+}
